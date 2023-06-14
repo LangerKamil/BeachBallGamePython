@@ -13,3 +13,5 @@ Game written in python using OpenAI ChatGPT 3.5.
 
 In order to run the game the **pygame** library needs to be added. Use **pip install pygame** command.
 
+Run the script using **python BeachBall.py** command in the game directory. 
+
