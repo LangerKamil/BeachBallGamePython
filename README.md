@@ -11,7 +11,7 @@ Game written in python using OpenAI ChatGPT 3.5.
 
 # Setup
 
-In order to run the game the **pygame** library is required. Use **pip install pygame** command.
+In order to run the game the **pygame** library is required. Use **pip install pygame** command to add the package.
 
-Run the script using **python BeachBall.py** command in the game directory. 
+Run the script using **python BeachBall.py** command in the project directory. 
 
