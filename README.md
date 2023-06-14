@@ -1,4 +1,4 @@
-Game written in python using OpenAI chatbot 3.5.
+Game written in python using OpenAI ChatGPT 3.5.
 
 ------------------------------------------------
 
